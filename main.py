@@ -210,37 +210,6 @@
 
 
 
-=======
-# #string slicing
-
-# kes = "Keshav Tripathi"
-# print(kes[0 : 10 : 2]);  # isme btata hai ki [start : end : kitni chhodh chhodh ke likhe] main thing end point nhi aata
-
-
-# #TYPE Conversion
-
-# a = 12;
-# print(type(a))
-
-# a = str(a)
-# print(type(a))
-
-# print(bool(a))  #Every value change in boolean and its will be in TRUE Except 7Values -> False, 0, 0.0, "", [List], (Tuple), {Dict}
-
-# #implicit jisme python khud se ek dattype se dusre me change krta hai like-> 12/3 answer will be 4.0 so integer to string
-# #Explicit jisme user use kare function
->>>>>>> 0e19845e8e04cddf985c9f8b661f573c26fe328c
-
-
-
-
-
-
-
-
-
-
-
 
 
 
