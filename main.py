@@ -13,7 +13,11 @@
 # three times"""  #this is also used for doc string
 
 
+<<<<<<< HEAD
 #                   #VARIABLES
+=======
+#                   # Variables 
+>>>>>>> 0e19845e8e04cddf985c9f8b661f573c26fe328c
 # a = 10; 
 # sher = "Keshav"   #we can not do 2sher means number phele nhi use krne 
 # # no use space between variables like (SHE R), dont use special character like @sher
@@ -21,7 +25,11 @@
 # sheryiansSchool = "students" #camel  case
 # sheryians_school = "students" #snake case
 
+<<<<<<< HEAD
 #                  #DATATYPE
+=======
+#                  #DataType
+>>>>>>> 0e19845e8e04cddf985c9f8b661f573c26fe328c
 # #1 Numbers 
 # a =10;      # Integer 
 # b =20.5;    #float
@@ -39,13 +47,18 @@
 # y = False; 
 
 
+<<<<<<< HEAD
 # #STRING INDEXING
+=======
+# #String indexing
+>>>>>>> 0e19845e8e04cddf985c9f8b661f573c26fe328c
 
 # she = "Romania"; 
 # print(she[5]); #ans is 'i'
 # print(she[-2]) #ans is 'i'
 
 
+<<<<<<< HEAD
 # #STRING SLICING
 
 # kes = "Keshav Tripathi"
@@ -197,6 +210,26 @@
 
 
 
+=======
+# #string slicing
+
+# kes = "Keshav Tripathi"
+# print(kes[0 : 10 : 2]);  # isme btata hai ki [start : end : kitni chhodh chhodh ke likhe] main thing end point nhi aata
+
+
+# #TYPE Conversion
+
+# a = 12;
+# print(type(a))
+
+# a = str(a)
+# print(type(a))
+
+# print(bool(a))  #Every value change in boolean and its will be in TRUE Except 7Values -> False, 0, 0.0, "", [List], (Tuple), {Dict}
+
+# #implicit jisme python khud se ek dattype se dusre me change krta hai like-> 12/3 answer will be 4.0 so integer to string
+# #Explicit jisme user use kare function
+>>>>>>> 0e19845e8e04cddf985c9f8b661f573c26fe328c
 
 
 
