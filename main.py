@@ -139,7 +139,7 @@
 
 #     #QUESTIONS
 
-# # 01. accept two numbers and print the gratest btw them
+#  #01. accept two numbers and print the gratest btw them
 # a = int(input("Enter first number: "))    
 # b = int(input("Enter Second number: "))    
 
@@ -150,7 +150,7 @@
 # else:
 #     print(f"{b} is equals to {a}")   
 
-# 02. accept the gender from the user as char and print the respective greeting message Ex- Good Morning Sir/Mam
+#   #02. accept the gender from the user as char and print the respective greeting message Ex- Good Morning Sir/Mam
 
 # gen = input("Enter your gender as character(M or F): ")
 
@@ -164,47 +164,35 @@
 
 
 
-#LOOPS
-# for -> works on basis of numbers it needs number 10 baar print kro ya phir 100 baar, 
-# while -> works on condition like do until number becomes 100, 
-# do-while
+# #LOOPS
+# # for -> works on basis of numbers it needs number 10 baar print kro ya phir 100 baar, 
+# # while -> works on condition like do until number becomes 100, 
+# # do-while
 
-#FOR Loop
+# #FOR Loop
 # a = range(1, 20, 1)   #arnge(start, end, kine number chhodh chhodh ke)
 
 # for i in a:
 #     print(i)
 
-     #AUR
+#      #AUR
 
 # for i in range(1, 21, 1):
-#     print(i)
+#    print(i)
 
-#     #AUR
+# #     #AUR
 
-# for i in range(21):         #end dena jaruri hai
+# for i in range(21):
+#              #end dena jaruri hai
 #     print(i)    
 
-# reverse print from 16 to 1
+# # reverse print from 16 to 1
 
-for i in range(16, 0, -1):    #(start, end, kitna number peeche jaaye)
-    print(i)
-
-
+# for i in range(16, 0, -1):    #(start, end, kitna number peeche)
+#     print(i)
 
 
 
-
-
-
-
-
-
-
-
-
-
-    
 
 
 
