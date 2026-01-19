@@ -202,3 +202,66 @@
 
 # for i in range(16, 0, -1):    #(start, end, kitna number peeche)
 #     print(i)
+
+
+#FOR Loop in STRINGS
+
+# a = "SHERYIANS"
+
+# for i in range(9):
+#     print(a[i])
+
+# a = "Keshav Narayan Tripathi"
+
+# for i in range(len(a)):
+#     print(a[i])
+
+# a = "SHERYIANS IS COOL"
+
+# for i in a:
+#     print(i)
+
+
+  
+
+             #BREAK & CONTINUE
+
+# BREAK : in break ek point pe ja kar ruk gye aage nhi badhe
+# for i in range(1,21):
+#     if i == 15:
+#         break
+#     else:
+#         print(i)
+
+# CONTINUE : jo digit htani ho woh hta ke aage badhega 
+# for i in range(1,21):
+#     if i == 15:
+#         continue
+#     print(i)
+
+
+
+
+#OUESTIONS 
+#1
+# a = int(input("Enter any no. : "))
+
+# for i in range(a):
+#     print("Hello")
+
+#2
+# a = int(input("Which table do u want: "))
+
+# for i in range(1, 11):
+#     print(f"{a} * {i} = {a*i}")
+
+
+#3
+# a = int(input("Give any number: "))
+# print(f"SUM of first {a} number is : ")
+
+# sum = 0;
+# for i in range(1, a+1):
+#     sum = sum + i
+
+# print(sum)    
