@@ -1,0 +1,1 @@
+s = a.union(b) #OR we can write it a|b
