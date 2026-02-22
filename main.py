@@ -546,8 +546,25 @@
 
 # print(p.read())
 
-r = open('soperman.txt', 'w')
+# r = open('soperman.txt', 'w')
 
-r.write("Hello this is Keshav and i am writing inside this file")
+# r.write("Hello this is Keshav and i am writing inside this file")
 
-r.close()
+# r.close()
+
+
+
+#   OOPS
+# object oriented programming language
+
+class Factory:
+    a = 12 #attribute
+
+    def hello(self):
+        print("How are yiy??")
+
+    print("hi")    
+
+obj = Factory()
+
+print(obj.a)
