@@ -557,14 +557,14 @@
 #   OOPS
 # object oriented programming language
 
-class Factory:
-    a = 12 #attribute
+# class Factory:
+#     a = 12 #attribute
 
-    def hello(self):
-        print("How are yiy??")
+#     def hello(self):
+#         print("How are yiy??")
 
-    print("hi")    
+#     print("hi")    
 
-obj = Factory()
+# obj = Factory()
 
-print(obj.a)
+# print(obj.a)
